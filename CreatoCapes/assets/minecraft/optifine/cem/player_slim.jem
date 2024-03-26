@@ -58,7 +58,7 @@
 			],
 			"animations": [
 				{
-					"cape.rx": "torad(5) + limb_speed*1"
+					"cape.rx": "(torad(5) + limb_speed*1) + if(limb_speed > 0.05, sin(time)*limb_speed*0.15, 0)"
 				}
 			]
 		},
