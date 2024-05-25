@@ -1,5 +1,7 @@
-# CreatoCapes
+# CreatoCapes (ARCHIVED)
 ## Custom Capes!
+
+**NOTICE:** CreatoCapes has been officialy archived, all code and files under this project are now completely open source(ignore the LICENSE file in the relevant repos and files), feel free to modify, distribute or use this data as you see fit, all the relevant pages will still be maintained aswell as a version of the pack maintained for future minecraft versions, however, no code will be changed or fixed or added. Thank you for the support, Cre8to-Team.  
 
 ### Installation (mods) <hr />
 
@@ -22,5 +24,5 @@
 #### Finally Upload the skin you got in the minecraft launcher or the [minecraft site](minecraft.net)  
 ## WARNING: MAKE SURE YOUR SKIN TYPE IS SET TO 'SLIM' WHILE UPLOADING  
 
-CreatoCapes © 2024 by Cre8to-Team is licensed under Attribution-NonCommercial-ShareAlike 4.0 International  
+This project is free to use, modify and distribute as you see fit, the LICENSE files in the relevant repos and files are invalid as of 25th May 2024  
 Not afflicted, employed or associated by or with mojang or minecraft
